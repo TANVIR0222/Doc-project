@@ -1,0 +1,13 @@
+.banner{
+    height: 100vh;
+    background-color: #1679AB;
+}
+
+.banner .banner_img{
+    position: relative;
+    top: 3%;
+    width: 35rem;
+    height: 35rem;
+    margin-left: 42rem;
+    
+}

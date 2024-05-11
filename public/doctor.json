@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "first_name": "John Doe",
+      "specialty": "Cardiology",
+      "hospital_affiliation": "Central City Hospital",
+      "phone_number": "(555) 555-5555",
+      "deatils": "Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknow printer tool a galley of type and scrambled it to make type specimen book has survived not only five centurines.",
+      "academic_status": "MD, FACP",
+      "image_url": "https://i.ibb.co/jyGzgVJ/Rectangle-15-3.png"
+
+    },
+    {
+      "id": 2,
+      "first_name": "Jane Smith",
+      "specialty": "Dermatology",
+      "hospital_affiliation": "Westside Medical Center",
+      "phone_number": "(555) 555-1212",
+      "deatils": "Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknow printer tool a galley of type and scrambled it to make type specimen book has survived not only five centurines.",
+      "academic_status": "MD, FAAD",
+      "image_url": "https://i.ibb.co/CPNk6J8/Rectangle-15.png"
+
+    },
+    {
+      "id": 3,
+      "first_name": "Michael Lee",
+      "specialty": "Neurology",
+      "hospital_affiliation": "University Hospital",
+      "deatils": "Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknow printer tool a galley of type and scrambled it to make type specimen book has survived not only five centurines.",
+      "phone_number": "(555) 555-3333",
+      "academic_status": "MD, PhD",
+      "image_url": "https://i.ibb.co/ZSbZ4ZM/Rectangle-15-2.png"
+
+    },
+    {
+      "id": 4,
+      "first_name": "Amanda Rodriguez",
+      "deatils": "Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknow printer tool a galley of type and scrambled it to make type specimen book has survived not only five centurines.",
+      "specialty": "Pediatrics",
+      "hospital_affiliation": "Children's Hospital",
+      "phone_number": "(555) 555-4444",
+      "academic_status": "MD, FAAP",
+      "image_url": "https://i.ibb.co/jyGzgVJ/Rectangle-15-3.png"
+
+
+    },
+    {
+      "id": 5,
+      "first_name": "David",
+      "last_name": "Wong",
+      "deatils": "Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknow printer tool a galley of type and scrambled it to make type specimen book has survived not only five centurines.",
+      "specialty": "Oncology",
+      "hospital_affiliation": "Cancer Treatment Center",
+      "phone_number": "(555) 555-6666",
+      "academic_status": "MD, FACO",
+      "image_url": "https://i.ibb.co/CPNk6J8/Rectangle-15.png"
+
+    }
+  ]
+  
+
+  
